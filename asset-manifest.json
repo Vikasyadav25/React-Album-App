@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Album-App/static/css/main.965ac756.css",
+    "main.js": "/React-Album-App/static/js/main.2349278b.js",
+    "static/js/453.ed3810f9.chunk.js": "/React-Album-App/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/React-Album-App/index.html",
+    "main.965ac756.css.map": "/React-Album-App/static/css/main.965ac756.css.map",
+    "main.2349278b.js.map": "/React-Album-App/static/js/main.2349278b.js.map",
+    "453.ed3810f9.chunk.js.map": "/React-Album-App/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.965ac756.css",
+    "static/js/main.2349278b.js"
+  ]
+}
